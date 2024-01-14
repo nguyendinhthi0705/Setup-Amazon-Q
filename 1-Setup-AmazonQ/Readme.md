@@ -37,13 +37,12 @@ Back to your Q application and tick your data source to check Sync status. If it
 Wait for a couple minutes when you see The Last Sync status is completed 
 ![Amazon Q Home](/1-Setup-AmazonQ/images/img10.jpeg)
 
-##Test your application
+## Test your application
 Click “Preview Web Experience” to test your application
-![Amazon Q Home](/1-Setup-AmazonQ/images/img11.jpeg)
-        * Try some testing:
-            * “Summary Amazon revenue 2022” or “Summary Apple revenue 2022”
-![Amazon Q Home](/1-Setup-AmazonQ/images/img12.jpeg)
+Try some testing like “Summary Amazon revenue 2022” or “Summary Apple revenue 2022”
+![Amazon Q Home](/1-Setup-AmazonQ/images/img11.jpeg)    
 Click “ New Conversation” and create a new file with sample content as below
-![Amazon Q Home](/1-Setup-AmazonQ/images/img13.jpeg)
+![Amazon Q Home](/1-Setup-AmazonQ/images/img12.jpeg)
 Click Upload file and ask “What content in the file” to see content summary
+![Amazon Q Home](/1-Setup-AmazonQ/images/img13.jpeg)
 
