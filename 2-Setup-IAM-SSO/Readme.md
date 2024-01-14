@@ -1,5 +1,6 @@
 # Step by step to setup SSO with Amazon Q
  - Configuare your IAM Identity Center 
+ This document will guide your to setup Identity Provider for Amazon Q via IAM Identity Center. To confign IAM Identity Center, please try this <a href="https://docs.aws.amazon.com/singlesignon/latest/userguide/what-is.html">link</a>
 ## Setup Application SSO
 1. Go to "IAM Identity Center" and choose Applications tab
 2. Click Add Application
@@ -70,7 +71,24 @@
 
      Click Deploy 
 
-## Test you application
-    IAM Identity Center and Click AWS Access Portal URL
+## Test Amazon Q Application
+1. Access IAM Identity Center and Click AWS Access Portal URL
+    
     ![](/2-Setup-IAM-SSO/images/img12.jpeg)
+2. Login into Identity Center
+
+    ![](/2-Setup-IAM-SSO/images/img14.jpeg)
+3. Click My Assistant App, the system will navigate you to Amazon Q application
+
+    ![](/2-Setup-IAM-SSO/images/img15.jpeg)
+
+## Troubleshoot:
+
+Troubleshoot link:
+https://docs.aws.amazon.com/amazonq/latest/business-use-dg/idp-troubleshooting.html  
+
+Identity Center attributes:
+https://docs.aws.amazon.com/singlesignon/latest/userguide/attributemappingsconcept.html#supportedssoattributes
+
+
 
