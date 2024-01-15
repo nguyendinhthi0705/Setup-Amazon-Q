@@ -1,9 +1,9 @@
 #  Integration Amazon Q with Jira
-Amazon Q allow integrate with Jira, Saleforce, ServiceNow to create a ticket by summary the chat content.
+Amazon Q allow to integrate with Jira, Saleforce, ServiceNow to create a ticket by summary the chat content.
  - Prerequisite: 
     <ul>
-     <li> Register a free/paid Jira Account </li>
-      <li> Create some projects such as Software Development, Customer Service ..etc </li>
+     <li> Register a Jira Account </li>
+      <li> Create some projects such as Software Development, IT Service ..etc </li>
     </ul>
 
 ## Create API token in Jira Account
@@ -40,9 +40,12 @@ Amazon Q allow integrate with Jira, Saleforce, ServiceNow to create a ticket by 
 - Login your Amazon Q
 - Upload a file for ticket content and input text "What content in the txt file ?"
 
+     ![](/3-Integrate-Jira/images/img9.jpeg)
+
+- Input "Please create a jira ticket to track meeting minutes" and select a project, 
      ![](/3-Integrate-Jira/images/img6.jpeg)
 
-- Input "Please create a jira ticket to track meeting minutes" and select a project, a new ticket then will be created
+- A new ticket was created
      ![](/3-Integrate-Jira/images/img7.jpeg)
 - You can view your new ticket on Jira by click on the link
       ![](/3-Integrate-Jira/images/img8.jpeg)
